@@ -74,13 +74,13 @@ Darshan Patel
 ## Dashboard Preview
 
 ### Fraud BI Executive Dashboard
-![Executive Dashboard](Images/executive_dashboard.png)
+![Executive Dashboard](IMAGES/executive_dashboard.png.png)
 
 ### Fraud Analysis Dashboard
-![Fraud Analysis Dashboard](Images/fraud_analysis_dashboard.png)
+![Fraud Analysis Dashboard](IMAGES/fraud_analysis_dashboard.png.png)
 
 ### Merchant Performance Dashboard
-![Merchant Performance Dashboard](Images/merchant_performance_dashboard.png)
+![Merchant Performance Dashboard](IMAGES/merchant_performance_dashboard.png.png)
 
 ### Customer Insights Dashboard
-![Customer Insights Dashboard](Images/customer_insights_dashboard.png)
+![Customer Insights Dashboard](IMAGES/customer_insights_dashboard.png.png)
