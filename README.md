@@ -88,8 +88,7 @@ Fraud-BI-System/
 - Payment preferences vary between customer groups.
 - Fraud involvement is concentrated among a subset of customers.
 
-
-- ## Business Recommendations
+## Business Recommendations
 
 ### Fraud Prevention
 - Introduce additional verification checks for high-risk transactions.
@@ -112,7 +111,7 @@ Fraud-BI-System/
 - Build automated fraud alerts for critical risk transactions.
 - Enable daily executive monitoring through Power BI dashboards.
 
-- ## Skills Demonstrated
+## Skills Demonstrated
 
 - SQL Query Optimization
 - Data Modeling
@@ -129,16 +128,16 @@ Fraud-BI-System/
 Darshan Patel
 
 
-## Dashboard Preview
+## 📊 Dashboard Preview
 
 ### Fraud BI Executive Dashboard
-![Executive Dashboard](FRAUD-BI-SYSTEM/IMAGES/executive_dashboard.png.png)
+![Fraud BI Executive Dashboard](Images/fraud_bi_executive.png)
 
 ### Fraud Analysis Dashboard
-![Fraud Analysis Dashboard](FRAUD-BI-SYSTEM/IMAGES/fraud_analysis_dashboard.png.png)
+![Fraud Analysis Dashboard](Images/fraud_analysis.png)
 
 ### Merchant Performance Dashboard
-![Merchant Performance Dashboard](FRAUD-BI-SYSTEM/IMAGES/merchant_performance_dashboard.png.png)
+![Merchant Performance Dashboard](Images/merchant_performance.png)
 
 ### Customer Insights Dashboard
-![Customer Insights Dashboard](FRAUD-BI-SYSTEM/IMAGES/customer_insights_dashboard.png.png)
+![Customer Insights Dashboard](Images/customer_insights.png)
