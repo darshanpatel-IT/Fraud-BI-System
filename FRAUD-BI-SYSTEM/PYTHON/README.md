@@ -33,16 +33,19 @@ The database password is loaded from a local environment variable:
 
 ```python
 password=os.getenv("MYSQL_PASSWORD")
+```
 
-The local .env file containing credentials is excluded from Git using .gitignore.
+The local `.env` file containing credentials is excluded from Git using `.gitignore`.
 
-🛠️ Technologies
-Python
-MySQL Connector
-python-dotenv
-MySQL
-🎯 Purpose
+## 🛠️ Technologies
+
+- Python
+- MySQL Connector
+- python-dotenv
+- MySQL
+
+## 🎯 Purpose
 
 These scripts support the complete analytics workflow:
 
-Data Generation → MySQL Database → SQL Analysis → Power BI → Business Insights
+**Data Generation → MySQL Database → SQL Analysis → Power BI → Business Insights**
