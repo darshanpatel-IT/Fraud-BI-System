@@ -1,3 +1,31 @@
+/*
+============================================================
+ FRAUD BI SYSTEM - SQL DATA ANALYSIS
+============================================================
+
+ Project: Fraud BI System
+ Database: MySQL
+ Purpose: Fraud, Transaction, Customer & Merchant Analysis
+
+ Dataset:
+ - 50,000 Transactions
+ - 5,000 Customers
+ - 500 Merchants
+ - 1,500 Fraud Cases
+
+ SQL Concepts Demonstrated:
+ - JOINs
+ - GROUP BY & HAVING
+ - Aggregate Functions
+ - CASE Expressions
+ - CTEs
+ - Subqueries
+ - Window Functions
+ - Conditional Aggregation
+
+============================================================
+*/
+
 -- Q1. Show all customers
 SELECT *
 FROM customers;
@@ -20,14 +48,20 @@ SELECT *
 FROM transactions
 WHERE transaction_status = 'failed';
 
+
+-- Q5.1 Count failed transactions
 SELECT COUNT(*) AS failed_transaction
 FROM transactions
 WHERE transaction_status = 'failed';
 
-SELECT COUNT(*)  AS successful_transaction
+
+-- Q5.2 Count successful transactions
+SELECT COUNT(*) AS successful_transaction
 FROM transactions
 WHERE transaction_status = 'success';
 
+
+-- Q5.3 Count pending transactions
 SELECT COUNT(*) AS pending_transaction
 FROM transactions
 WHERE transaction_status = 'pending';
